@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jonathan Bangert's Github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-hb)](https://github.com/Jonathan-hb)
+
 <!--
 **Jonathan-hb/Jonathan-hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
