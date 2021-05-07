@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello!
+My name is Jonathan and i live in Denmark. 
 
 [![Jonathan Bangert's Github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-hb)](https://github.com/Jonathan-hb)
 
