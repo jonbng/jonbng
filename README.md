@@ -1,8 +1,6 @@
 ### Hello!
 My name is Jonathan and i live in Denmark. 
 
-My website: jonathanbangert.com
-
 I can code in python, lua, java and bash
 
 [![Jonathan Bangert's Github stats](https://github-readme-stats.vercel.app/api?username=Jonathan-hb)](https://github.com/Jonathan-hb)
