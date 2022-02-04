@@ -12,7 +12,6 @@
 <h2>Operating System</h2>
 I have dual boot with Fedora linux and Windows.
 Also on my School computer i run Windows and Ubuntu Linux.
-<br/><br/>
 
 <h2>My Github Stats</h2>
 
