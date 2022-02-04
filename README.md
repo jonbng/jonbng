@@ -14,6 +14,6 @@ I have dual boot with Fedora linux and Windows.
 Also on my School computer i run Windows and Ubuntu Linux.
 <br/><br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical"/></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical"/></p>
