@@ -1,9 +1,9 @@
 <h1 align="center">Hello! My name is Jonathan</h1>
 
 <p>
-  - I love Linux, Python and Open Source
-  - I am currently setting up smart home
-  - I use Linux :D
+  - I love Linux, Python and Open Source <br/>
+  - I am currently setting up smart home <br/>
+  - I use Linux :D <br/>
 </p>
 
 <h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
