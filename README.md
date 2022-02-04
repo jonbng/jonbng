@@ -1,7 +1,5 @@
-### Hello!
-My name is Jonathan. I am 14 years old
+<h1 align="center">Hello! My name is Jonathan</h1>
 
-I mostly code Python
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical)](https://github.com/Un10ck3d/)
 
