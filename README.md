@@ -4,7 +4,7 @@
   - I love Linux, Python and Open Source
 </p>
 
-<a href="https://jonathanwebsite.herokuapp.com">My website</a>
+<h1><a href="https://jonathanwebsite.herokuapp.com">My website</a></h1>
 
 <h3 align="left">The launguages and tools i use:</h3>
 <p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS and ZigBee2MQTT</p>
