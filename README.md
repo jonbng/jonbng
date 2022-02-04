@@ -7,7 +7,7 @@
 <a href="https://jonathanwebsite.herokuapp.com">My website</a>
 
 <h3 align="left">The launguages and tools i use:</h3>
-<p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Typescript</p>
+<p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS and ZigBee2MQTT</p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical)](https://github.com/Un10ck3d/)
 
