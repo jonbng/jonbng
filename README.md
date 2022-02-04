@@ -8,7 +8,8 @@
   - Maybe looking for a mentor :D
 </p>
 
-<h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
+<h3><a href="https://jonathanwebsite.herokuapp.com">My Website</a></h3>
+<h3><a href="https://un10ck3d.github.io/">Other Website</a></h3>
 <h3><a href="https://dsc.bio/un1x">My Discord</a></h3>
 
 <h2 align="left">The launguages and tools i use:</h2>
