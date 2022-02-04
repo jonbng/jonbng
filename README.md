@@ -2,8 +2,9 @@
 
 <p>
   - I love Linux, Python and Open Source <br/>
-  - I am currently setting up smart home <br/>
+  - I am currently setting up smart home and making a virtual assistant<br/>
   - I use Linux :D <br/>
+  - I am 14 years old <br/>
 </p>
 
 <h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
