@@ -9,6 +9,7 @@
 </p>
 
 <h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
+<h3><a href="https://dsc.bio/un1x">My Discord</a></h3>
 
 <h2 align="left">The launguages and tools i use:</h2>
 <p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS and ZigBee2MQTT</p>
