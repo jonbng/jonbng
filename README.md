@@ -15,6 +15,5 @@ Also on my School computer i run Windows and Ubuntu Linux.
 <br/><br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical"/></p>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical)](https://github.com/Un10ck3d/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical)](https://github.com/Un10ck3d/)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical"/></p>
