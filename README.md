@@ -5,6 +5,7 @@
   - I am currently setting up smart home and making a virtual assistant<br/>
   - I use Linux :D <br/>
   - I am 14 years old <br/>
+  - Maybe looking for a mentor :D
 </p>
 
 <h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
