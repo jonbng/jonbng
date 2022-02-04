@@ -2,6 +2,8 @@
 
 <p>
   - I love Linux, Python and Open Source
+  - I am currently setting up smart home
+  - I use Linux :D
 </p>
 
 <h3><a href="https://jonathanwebsite.herokuapp.com">My website</a></h3>
