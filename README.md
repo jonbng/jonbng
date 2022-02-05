@@ -9,6 +9,8 @@
   - Maybe looking for a mentor :D
 </p>
 
+https://fireship.io/
+
 <h3><a href="https://un10ck3d.github.io/">My Website on Github.io</a></h3>
 <h3><a href="https://dsc.bio/un1x">My Discord</a></h3>
 
