@@ -23,4 +23,4 @@ Also on my School computer i run Windows and Ubuntu Linux.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical&count_private=true"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical&count_private=true"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Un10ck3d&theme=radical"/></p>
