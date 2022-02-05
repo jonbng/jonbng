@@ -4,6 +4,7 @@
   - I love Linux, Python and Open Source <br/>
   - I am currently setting up smart home and making a virtual assistant<br/>
   - I use Linux :D <br/>
+  - Looking for someone to develope something with :) <br/>
   - I am 14 years old <br/>
   - Maybe looking for a mentor :D
 </p>
