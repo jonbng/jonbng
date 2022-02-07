@@ -21,6 +21,8 @@ https://fireship.io/
 I have dual boot with Fedora linux and Windows.
 Also on my School computer i run Windows and Ubuntu Linux.
 
+<h1>Keep it up everyone!</h1>
+
 <h2>My Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical&count_private=true"/></p>
