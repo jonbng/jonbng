@@ -20,7 +20,7 @@ https://fireship.io/
 I have dual boot with Fedora linux and Windows.
 Also on my School computer i run Windows and Ubuntu Linux.
 
-<h1>Keep it up everyone!</h1>
+<h1>Keep it up everyone! Also check out github education</h1>
 
 <h2>My Github Stats</h2>
 
