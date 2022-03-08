@@ -6,7 +6,6 @@
   - I use Linux :D <br/>
   - Looking for someone to develope something with :) <br/>
   - I am 14 years old <br/>
-  - Maybe looking for a mentor :D
 </p>
 
 https://fireship.io/
