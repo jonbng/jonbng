@@ -22,6 +22,8 @@ Also on my School computer i run Windows and Ubuntu Linux.
 
 <h1>Keep it up everyone! Also check out github education</h1>
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://war.ukraine.ua/support-ukraine/)
+
 <h2>My Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Un10ck3d&show_icons=true&theme=radical&count_private=true"/></p>
