@@ -8,11 +8,6 @@
   - I am 14 years old <br/>
 </p>
 
-https://fireship.io/
-
-<h3><a href="https://un10ck3d.github.io/">My Website on Github.io</a></h3>
-<h3><a href="https://dsc.bio/un1x">My Discord</a></h3>
-
 <h2 align="left">The launguages and tools i use:</h2>
 <p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS and ZigBee2MQTT</p>
 
