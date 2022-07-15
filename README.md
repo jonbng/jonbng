@@ -4,7 +4,6 @@
   - I love Linux, Python and Open Source <br/>
   - I am currently setting up smart home and making a virtual assistant<br/>
   - I use Linux :D <br/>
-  - Looking for someone to develope something with :) <br/>
   - I am 14 years old <br/>
 </p>
 
@@ -12,7 +11,7 @@
 <p>Linux, Bash, Python, Javascript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS and ZigBee2MQTT</p>
 
 <h2>Operating System</h2>
-I have dual boot with Fedora linux and Windows.
+I use dual boot with Fedora linux and Windows.
 
 <h2>My Github Stats</h2>
 
