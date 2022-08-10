@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Jonathan</h1>
 
 <p>
-  - I love Linux, Python and Open Source <br/>
+  - I love Linux, Python, Typescript and Open Source <br/>
   - I use Linux :D <br/>
   - I am 14 years old <br/>
 </p>
