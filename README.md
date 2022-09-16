@@ -2,7 +2,7 @@
 
 <p>
   - I love Linux, Python, Typescript and Open Source <br/>
-  - I use Linux <br/>
+  - I use Fedora Linux <br/>
   - I am 14 years old <br/>
 </p>
 
