@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Jonathan</h1>
 
 <p>
-  - I love Fedora Linux, Python, Typescript (sometimes), Unity (Mostly) and FOSS <br/>
+  - I love Fedora Linux, Python, Typescript (sometimes), Unity (Mostly) and most stuff FOSS <br/>
   - I use Fedora Linux as my main OS<br/>
 </p>
 
