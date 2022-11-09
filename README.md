@@ -3,6 +3,7 @@
 <p>
   - I love Fedora Linux, Python, Typescript (sometimes), Unity (Mostly) and most stuff FOSS <br/>
   - I use Fedora Linux as my main OS<br/>
+  - 14 Years on earth
 </p>
 
 - 🔭 I’m currently working on: a homework discord bot and a rocket
