@@ -1,5 +1,7 @@
 <h1 align="center">Hello! My name is Jonathan</h1>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Un10ck3d.self.id.whatever&left_color=green&right_color=red)
+
 <p>
   - I love Fedora Linux, Python, Typescript (sometimes), Unity (Mostly) and most stuff FOSS <br/>
   - I use Fedora Linux as my main OS<br/>
