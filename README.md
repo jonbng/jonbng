@@ -20,4 +20,6 @@
 <h2 align="left">The launguages and tools i use:</h2>
 <p>Fedora Linux, ZSH (Bash but better), Python, JavaScript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS, TypeScript and a bunch of other stuff</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Un10ck3d&hide_border=true)](https://git.io/streak-stats)
+
+<summary><b>🏆 Github Achievements</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Un10ck3d&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="Un10ck3d" /></p>
