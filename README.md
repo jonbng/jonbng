@@ -22,4 +22,4 @@
 
 
 <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Un10ck3d&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="Un10ck3d" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Un10ck3d&theme=dark&hide_border=true" alt="Un10ck3d" /></p>
