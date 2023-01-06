@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning: Trying to get good at typescript
 - 👯 I’m looking to collaborate on: Idk... DM me
 - 🤔 I’m looking for help with: How not to break npm / yarn
-- 💬 Ask me about: Ask Duckduckgo instead
-- 📫 How to reach me: Discord (Un1ocked_#0284)
+- 💬 Ask me about: Ask Google instead
+- 📫 How to reach me: Discord (Un1ocked_#7042)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fun facts arent always fun..
 
