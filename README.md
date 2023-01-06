@@ -8,9 +8,9 @@
   - 14 Years on earth
 </p>
 
-- 🔭 I’m currently working on: a homework discord bot and a rocket
+- 🔭 I’m currently working on: A homework discord bot and a rocket
 - 🌱 I’m currently learning: Trying to get good at typescript
-- 👯 I’m looking to collaborate on: Idk... DM me
+- 👯 I’m looking to collaborate on: Dont know... DM me :)
 - 🤔 I’m looking for help with: How not to break npm / yarn
 - 💬 Ask me about: Ask Google instead
 - 📫 How to reach me: Discord (Un1ocked_#7042)
