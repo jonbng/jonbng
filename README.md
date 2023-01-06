@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Un10ck3d.self.id.whatever&left_color=blue&right_color=red)
 
 <p>
-  - I love Fedora Linux, Python, Typescript (sometimes), Unity (Mostly) and most stuff FOSS <br/>
+  - I love Fedora Linux, Python, Typescript (sometimes), Unity and most stuff FOSS <br/>
   - I use Fedora Linux as my main OS<br/>
   - 14 Years on earth
 </p>
