@@ -6,7 +6,7 @@
   - I love Fedora Linux, Python, Typescript (sometimes), Unity and most stuff FOSS <br/>
   - I use Fedora Linux as my main OS<br/>
   - 14 Years on earth
-  - Voluntary at [Coding Pirates](https://codingpirates.dk/)
+  - Voluntary at <a href="https://codingpirates.dk/">Coding pirates<\a>
 </p>
 
 - 🔭 I’m currently working on: A homework discord bot and a rocket
