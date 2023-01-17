@@ -21,5 +21,6 @@
 <p>Fedora Linux, ZSH (Bash but better), Python, JavaScript, Git, Home Assistant, Raspberry pi, Arduino, Java, NodeJS, TypeScript and a bunch of other stuff</p>
 
 
-<h2 align="center">🏆 Github Achievements:</h2>
+<h2 align="center">🏆  Achievements:</h2>
 <a href="#"><p align="center" href="#"><img unselectable="on" style="pointer-events:none; user-select:none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Un10ck3d&theme=tokyonight_duo&hide_border=true&background=0D1117" alt="Un10ck3d" /></p></a>
+2 times winner of coding pirates game jam
