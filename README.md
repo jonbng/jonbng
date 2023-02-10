@@ -24,3 +24,5 @@
 
 <h2 align="center">🏆  Achievements:</h2>
 <a href="#"><p align="center" href="#"><img unselectable="on" style="pointer-events:none; user-select:none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Un10ck3d&theme=tokyonight_duo&hide_border=true&background=0D1117" alt="Un10ck3d" /></p></a>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Un10ck3d/Un10ck3d/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Un10ck3d/Un10ck3d/output/github-contribution-grid-snake.svg#gh-light-mode-only)
