@@ -4,7 +4,7 @@
 
 <p>
   - I love Fedora Linux, Python, Typescript (sometimes), Unity and most stuff FOSS <br/>
-  - I use Fedora Linux as my main OS<br/>
+  - I use Fedora/Nobara Linux as my main OS<br/>
   - 15 Years on earth<br/>
   - Voluntary at <a href="https://codingpirates.dk/">Coding pirates
 </p>
