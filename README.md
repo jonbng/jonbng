@@ -9,10 +9,10 @@
   - Voluntary at <a href="https://codingpirates.dk/">Coding pirates
 </p>
 
-- 🔭 I’m currently working on: A mobilegame for play store and a rocket
-- 🌱 I’m currently learning: Trying to get good at typescript
+- 🔭 I’m currently working on: Music assistant deezer integration
+- 🌱 I’m currently learning: Asynchronous programming
 - 👯 I’m looking to collaborate on: Dont know... DM me :)
-- 🤔 I’m looking for help with: How not to break npm / yarn
+- 🤔 I’m looking for help with: Asynchronous programming..
 - 💬 Ask me about: Ask ChatGPT instead ;)
 - 📫 How to reach me: Discord (Un1ocked_#7042)
 - 😄 Pronouns: He/Him
