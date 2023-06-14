@@ -14,7 +14,7 @@ PGP public key: https://gist.github.com/Un10ck3d/49adcf2c77d6045e14d99b394e2f456
 - 🔭 I’m currently working on: Music assistant deezer integration
 - 🌱 I’m currently learning: Asynchronous programming
 - 👯 I’m looking to collaborate on: Dont know... DM me :)
-- 🤔 I’m looking for help with: Asynchronous programming..
+<-- - 🤔 I’m looking for help with: --> 
 - 📫 How to reach me: Discord (Un1ocked_#7042)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Fun facts arent always fun..
