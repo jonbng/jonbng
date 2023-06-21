@@ -1,13 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jonathan!</h1>
 
-<p>
   - I love Linux, Python, Typescript (sometimes), Unity and most stuff FOSS <br/>
   - I use Arch btw<br/>
   - 15 Years on earth<br/>
-  - Voluntary at <a href="https://codingpirates.dk/">Coding pirates
-</p>
-
-PGP public key: https://gist.github.com/Un10ck3d/49adcf2c77d6045e14d99b394e2f4560
+  - Voluntary at ![Coding pirates](https://codingpirates.dk/)
+  - ![PGP public key](https://gist.github.com/Un10ck3d/49adcf2c77d6045e14d99b394e2f4560)
   
 - 🔭 I’m currently working on: Music assistant deezer integration
 - 🌱 I’m currently learning: Asynchronous programming
