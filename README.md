@@ -1,6 +1,4 @@
-<h1 align="center">Hello! My name is Jonathan</h1>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Un10ck3d.self.id.whatever&left_color=blue&right_color=red)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jonathan!</h1>
 
 <p>
   - I love Linux, Python, Typescript (sometimes), Unity and most stuff FOSS <br/>
