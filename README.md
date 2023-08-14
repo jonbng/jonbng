@@ -1,5 +1,5 @@
 
-# Hey ![wave](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif){: w="40" }, I'm Jonathan
+# Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jonathan
 
 - I love Linux, and most stuff Open Source!
 - I use Arch btw
