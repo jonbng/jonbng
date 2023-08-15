@@ -18,4 +18,4 @@
 
 ## Technologies im learning / kinda comfortable with
 
-![My skills](https://skillicons.dev/icons?perline=6&i=nuxt,svelte,rust,tailwindcss,arduino,figma,tauri,vue,vite,laravel,bots,cs,cpp,sqlite)
+![My skills](https://skillicons.dev/icons?perline=7&i=nuxt,svelte,rust,tailwindcss,arduino,figma,tauri,vue,vite,laravel,bots,cs,cpp,sqlite)
