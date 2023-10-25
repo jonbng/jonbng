@@ -2,6 +2,7 @@
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jonathan!
 
 - I love Linux, and most stuff Open Source!
+- I enjoy learning new things
 - I use Arch btw
 - 15 Years on earth
 - Voluntary at [Coding pirates](https://codingpirates.dk/)
