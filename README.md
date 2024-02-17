@@ -4,7 +4,7 @@
 - I love Linux, and most stuff Open Source!
 - I enjoy learning new things
 - I use Arch btw
-- 15 Years on earth
+- 16 Years on earth
 - Voluntary at [Coding pirates](https://codingpirates.dk/)
 - Here is my [PGP public key](https://gist.github.com/Un10ck3d/49adcf2c77d6045e14d99b394e2f4560)
 
