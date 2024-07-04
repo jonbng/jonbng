@@ -15,7 +15,7 @@
 
 ## Technologies im comfortable with
 
-![My skills](https://skillicons.dev/icons?perline=8&i=js,html,css,ts,neovim,vscode,vim,git,bash,devto,md,linux,nodejs,discord,githubactions,github,python,raspberrypi,unity,stackoverflow,postman,bun,cloudflare,materialui,nextjs,postgres,react,figma,svelte,cs,tailwindcss,tauri)
+![My skills](https://skillicons.dev/icons?perline=8&i=js,html,css,ts,neovim,vscode,vim,git,bash,arch,md,linux,nodejs,discord,githubactions,github,python,raspberrypi,unity,stackoverflow,postman,bun,cloudflare,npm,nextjs,postgres,react,figma,svelte,cs,tailwindcss,tauri)
 
 ## Technologies im learning / kinda comfortable with
 
