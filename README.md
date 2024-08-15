@@ -10,8 +10,8 @@
 
 ## Github commit graph
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Un10ck3d/Un10ck3d/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Un10ck3d/Un10ck3d/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/arctixdev/arctixdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/arctixdev/arctixdev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Technologies im comfortable with
 
