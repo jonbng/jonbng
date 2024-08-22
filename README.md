@@ -4,9 +4,10 @@
 - I love Linux, and most stuff Open Source!
 - I enjoy learning new things
 - 16 Years on earth
-- Voluntary at [Coding pirates](https://codingpirates.dk/)
+- Exchange student from Denmark 🇩🇰 in the US 🇺🇸
 - Here is my [PGP public key](https://gist.github.com/arctixdev/49adcf2c77d6045e14d99b394e2f4560)
 - Currently working a lot on [Akademia](https://akademia.cc/)
+- Voluntary at [Coding pirates](https://codingpirates.dk/) (on pause while on exchange year)
 
 ## Github commit graph
 
