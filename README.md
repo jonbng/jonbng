@@ -1,10 +1,12 @@
 
 # Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jonathan!
 
-- Linux rocks
-- 16 Years on earth
+- 17 Years on earth
 - Exchange student from Denmark 🇩🇰 in the US 🇺🇸
+- Akademia Co-Founder & SWE @ Flimmer
+- Unge Forskere Technology winner & in Danish Shark Tank junior
 - Voluntary at [Coding pirates](https://codingpirates.dk/) (on pause while on exchange year)
+- Linux rocks
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonbng/jonbng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonbng/jonbng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
