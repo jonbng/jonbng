@@ -6,8 +6,8 @@
 - Exchange student from Denmark 🇩🇰 in the US 🇺🇸
 - Voluntary at [Coding pirates](https://codingpirates.dk/) (on pause while on exchange year)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/arctixdev/arctixdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/arctixdev/arctixdev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jonbng/jonbng/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jonbng/jonbng/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--## Technologies im comfortable with
 - Here is my [PGP public key](https://gist.github.com/arctixdev/49adcf2c77d6045e14d99b394e2f4560)
