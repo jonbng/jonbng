@@ -1,4 +1,4 @@
 - 🇩🇰 Exchange student from Denmark · Currently in the US  
-- 🧑‍💻 Co-founder of SWE @ [Flimmer](https://flimmer.app) · [Akademia](https://akademia.cc)
+- 🧑‍💻 Co-founder of [Akademia](https://akademia.cc)
 - 🎯 Building minimal, focused software  
 - 🎙️ Danish Shark Tank · Unge Forskere 1st Place
