@@ -1,4 +1,4 @@
-- 🇩🇰 Exchange student from Denmark · Currently in the US  
+- 🇩🇰 17 y/o student from Denmark
 - 🧑‍💻 Co-founder of [Akademia](https://akademia.cc)
 - 🎯 Building minimal, focused software  
 - 🎙️ Danish Shark Tank · Unge Forskere 1st Place
