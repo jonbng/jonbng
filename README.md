@@ -1,5 +1,5 @@
 - 🇩🇰 18 y/o student from Denmark
+- 📚 Studying at UWC RCN, Norway
 - 🧑‍💻 Lead SWE @ [Burst](https://burstcreators.com/), Co-founder of [Akademia](https://akademia.cc)
 - 🦉 Working on [BetterLectio](https://github.com/jonbng/betterlectio/)
-- 🎯 Building minimal, focused software  
 - 🎙️ Danish Shark Tank · Unge Forskere 1st Place
